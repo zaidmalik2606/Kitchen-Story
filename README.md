@@ -14,12 +14,17 @@ Then in cmd, paste: npm install
 After installation, in cmd paste: ng serve
 Setup for backend
 Open Eclipse Ide. import maven project Backend_SpringBoot.
-Open the Phase4KitchenStoryApplication.java file. Right click and select run as java application.
+Open the Phase4KitchenStoryApplication.java file. 
+Right click and select run as java application.
 Setup for database
+
+
 Install MongoDb from https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.3-signed.msi
 In Mongodb compass create database "kitchenstory".
+
 Inside db kitchenstory create Collections- AdminCred, Orders, Products.
 In respective collections import the .json file.
+
 The web application is now ready to use in http://localhost:4200/
 
 Admin Login Page
