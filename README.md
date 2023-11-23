@@ -8,7 +8,9 @@ Download or clone the content of repository. Then follow the instruction given b
 
 Setup for frontend
 Open the folder Frontend_Angular in VsCode.
+
 Then Install node.js from https://nodejs.org/en/download/.
+
 Then open cmd and paste: npm install -g @angular/cli
 Then in cmd, paste: npm install
 After installation, in cmd paste: ng serve
